@@ -3,4 +3,5 @@ Every single python learner goes through the calculator stage, and this one is m
 I just started earning python yesterday so, this is what I came up with.
 
 −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
-<img width="1086" height="475" alt="image" src="https://github.com/user-attachments/assets/75d03116-be81-42a0-896d-3b100f3f8c83" />
+<img width="1029" height="453" alt="image" src="https://github.com/user-attachments/assets/2da5aa8d-0e07-4b32-9ba5-1e5ec84c0226" />
+
