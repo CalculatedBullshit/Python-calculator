@@ -11,7 +11,7 @@ if b=="+":
     print("The addition of these two numbers is ", c+d)
 
 elif b=="-":
-    print("The subtraction of these two numeers is ", c-d)
+    print("The subtraction of these two numbers is ", c-d)
 
 elif b=="x":
     print("The multiplication of these two numbers is ", c*d)
